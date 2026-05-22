@@ -35,7 +35,7 @@ limpieza de datos, análisis multivariable y visualización profesional.
 
 **Habilidades:** Limpieza de datos · Análisis multivariable · Dashboard ejecutivo · Narrativa de datos
 
-🔗 [Ver notebook](enlace_al_notebook)
+🔗 [Ver notebook]https://github.com/BT-Yami/data-analytics-portfolio/blob/main/Add%20Titanic%20analysis%20notebook%20-%20Project%201
 
 ---
 
